@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoFragment</string>
+    <string name="title_activity_fragmnet_base">FragmnetBaseActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Template">template</string>
+</resources>
